@@ -1,6 +1,7 @@
 # Welcome to ArgoTrack
 
 ![ArgoTrack Logo](https://drive.google.com/uc?export=view&id=1pd2Ygf3LHoQ0VGzHaNcaL3kLB1Oq4T-a)
+![Diagram Proyek](https://drive.google.com/uc?export=view&id=1Sj_ToIw5CaPEvUBWHGBQuoE_MlsbC3Rm)
 
 ## About Us
 
