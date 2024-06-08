@@ -1,6 +1,6 @@
 # Welcome to ArgoTrack
 
-![ArgoTrack Logo]([link-ke-logo](https://drive.google.com/file/d/1pd2Ygf3LHoQ0VGzHaNcaL3kLB1Oq4T-a/view?usp=sharing))
+![ArgoTrack Logo](https://drive.google.com/file/d/1pd2Ygf3LHoQ0VGzHaNcaL3kLB1Oq4T-a/view?usp=sharing)
 
 ## About Us
 
