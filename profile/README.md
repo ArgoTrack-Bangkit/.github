@@ -43,7 +43,7 @@ Connect with us on social media to stay updated on the latest news and developme
 
 ## Contact Us
 
-For inquiries or support, please email us at contact@argotrack.com.
+For inquiries or support, please email us at [Coming Soon].
 
 Let's revolutionize tomato farming together with ArgoTrack!
 
