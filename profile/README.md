@@ -37,9 +37,9 @@ To start using ArgoTrack, visit our website [link-ke-website] and sign up for an
 
 Connect with us on social media to stay updated on the latest news and developments:
 
-- Twitter: [ArgoTrackTwitter](link-ke-twitter)
-- Facebook: [ArgoTrackFacebook](link-ke-facebook)
-- LinkedIn: [ArgoTrackLinkedIn](link-ke-linkedin)
+- Twitter: Coming Soon
+- Facebook: Coming Soon
+- LinkedIn: Coming Soon
 
 ## Contact Us
 
