@@ -29,7 +29,8 @@ ArgoTrack is a revolutionary platform aimed at empowering tomato farmers with cu
 To start using ArgoTrack, visit our website [link-ke-website] and sign up for an account. For developers interested in contributing to our platform, check out our GitHub repositories:
 
 - [ArgoTrack-Backend](https://github.com/ArgoTrack-Bangkit/Cloud-Computing)
-- [ArgoTrack-Frontend](link-ke-repo-frontend)
+- [ArgoTrack-DataSet](https://github.com/ArgoTrack-Bangkit/Machine-Learning.git)
+- [ArgoTrack-Frontend](https://github.com/ArgoTrack-Bangkit/Mobile-Development.git)
 - [ArgoTrack-MobileApp](link-ke-repo-mobileapp)
 
 ## Join the ArgoTrack Community
@@ -45,3 +46,5 @@ Connect with us on social media to stay updated on the latest news and developme
 For inquiries or support, please email us at contact@argotrack.com.
 
 Let's revolutionize tomato farming together with ArgoTrack!
+
+Copy Right (c) 2024 ArgoTrack
